@@ -2,4 +2,4 @@
 
 - [Instant Download](https://github.com/pr0LebenImHolz/LiH-Resourcepack/releases/download/latest/lih-resourcepack.zip)
 - [Latest Release](https\://github.com/pr0LebenImHolz/LiH-Resourcepack/releases/latest)
-- [Latest Release](https\://github.com/pr0LebenImHolz/LiH-Resourcepack/releases)
+- [All Releases](https\://github.com/pr0LebenImHolz/LiH-Resourcepack/releases)
